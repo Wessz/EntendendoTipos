@@ -1,0 +1,14 @@
+C:\Dev\EntendendoTipos\bin\Debug\net8.0\EntendendoTipos.exe
+C:\Dev\EntendendoTipos\bin\Debug\net8.0\EntendendoTipos.deps.json
+C:\Dev\EntendendoTipos\bin\Debug\net8.0\EntendendoTipos.runtimeconfig.json
+C:\Dev\EntendendoTipos\bin\Debug\net8.0\EntendendoTipos.dll
+C:\Dev\EntendendoTipos\bin\Debug\net8.0\EntendendoTipos.pdb
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.AssemblyInfoInputs.cache
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.AssemblyInfo.cs
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.csproj.CoreCompileInputs.cache
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.dll
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\refint\EntendendoTipos.dll
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.pdb
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\EntendendoTipos.genruntimeconfig.cache
+C:\Dev\EntendendoTipos\obj\Debug\net8.0\ref\EntendendoTipos.dll
